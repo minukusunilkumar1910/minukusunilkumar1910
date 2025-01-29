@@ -30,5 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minukusunilkumar1910&show_icons=true&locale=en&layout=compact" alt="minukusunilkumar1910" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minukusunilkumar1910&" alt="minukusunilkumar1910" /></p>
+ 
