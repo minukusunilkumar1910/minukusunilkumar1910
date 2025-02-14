@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/minukusunilkumar" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener" />
   </a>
-  <a href="https://salesp07.github.io"</div>
+  <a href="https://minukusunilkumar1910.github.io"</div>
 
   
  
@@ -36,15 +36,12 @@
 
 <br/>
  
-
-<!--<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/minukusunilkumar1910/minukusunilkumar1910/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
 <hr/> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
