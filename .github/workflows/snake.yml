@@ -18,8 +18,9 @@ jobs:
         with:
           github_user_name: minukusunilkumar1910
           outputs: |
-            dist/snake-custom.svg?color_snake=#00FF00&color_dots=#000000,#FF0000,#FFFF00,#00FF00
-
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
